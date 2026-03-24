@@ -1,0 +1,51 @@
+
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+/* CH3S */
+header {
+  background: #1e293b;
+  padding: 20px;
+  text-align: center;
+}
+/* DA{F */
+nav a {
+  margin: 0 15px;
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: bold;
+}
+/* r@gM */
+section {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+}
+/* 3nt_F */
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+/* 1nD3 */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #1e293b;
+}
+/* rs} */
+button {
+  background: #38bdf8;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
